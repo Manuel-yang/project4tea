@@ -1,11 +1,11 @@
 {
   "name": "project4tea",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Manuel-yang/project4tea"
+    "url": "https://github.com/Manuel-yang/project4tea.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
